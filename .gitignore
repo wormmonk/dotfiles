@@ -1,0 +1,9 @@
+.DS_Store
+*.swo
+*.swp
+
+secret-keys.sh
+secret-functions.sh
+secret-aliases.sh
+aliases.sh
+secret-cron-jobs
